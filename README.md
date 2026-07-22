@@ -41,13 +41,3 @@ Develop an Arduino-based system that controls four servo motors simultaneously a
 ## Circuit Diagram
 
 ![Circuit Diagram](Circuit.png)
-
----
-
-## Project Files
-
-| File | Description |
-|------|-------------|
-| `Servo_Motor_Control.ino` | Arduino source code |
-| `Circuit.png` | Circuit wiring diagram |
-| `Servo_Motor_Control_Simulation.mp4` | Tinkercad simulation video |
