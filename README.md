@@ -10,12 +10,6 @@ This project demonstrates synchronized control of four servo motors using an Ard
 
 ---
 
-## Objective
-
-Develop an Arduino-based system that controls four servo motors simultaneously and positions all motors at an angle of 90 degrees after two seconds of operation.
-
----
-
 ## Components
 
 - Arduino Uno
